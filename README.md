@@ -1,4 +1,3 @@
-# student-registration-form
 # Student Registration CRUD App
 
 ## Overview
