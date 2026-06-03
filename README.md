@@ -4,6 +4,9 @@
 
 The Student Registration CRUD App is a full-stack web application that allows users to manage student records. The application provides functionality to create, read, update, and delete student information through a simple and user-friendly interface.
 
+#screenshot
+![Student Registration Form](homepg.png)
+
 This project is built using:
 
 * Frontend: Svelte
